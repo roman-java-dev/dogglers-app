@@ -1,0 +1,252 @@
+09-10 15:18:48.958 12747 12911 I TestRunner: started: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)
+09-10 15:18:48.962 12747 12911 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-10 15:18:48.966 12300 11110 E AD-PLUGIN-SplashController: should not connect network, privacy revoke limit
+09-10 15:18:48.966 12300 11110 W AD-PLUGIN-SplashController: Should not connect network!
+09-10 15:18:48.967  1723  2376 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.xiaomi.smarthome, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.appsomniacs.da2, com.miHoYo.Yuanshen, com.baidu.BaiduMap, com.google.android.googlequicksearchbox]
+09-10 15:18:48.968  1723  2376 E ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+09-10 15:18:48.974  1723  2376 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:48.974  1723  2376 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:48.974  1723  2376 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:48.975  1723  2376 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-10 15:18:48.978  2563  2563 D Launcher.Lifecycle: onPause:UserHandle{0},2d07666,true
+09-10 15:18:48.978  2563  2563 D Launcher_UnlockAnimationStateMachine: setState:PAUSE_WAIT
+09-10 15:18:48.980  2066  2068 E ANDR-IOP: io prefetch is disabled
+09-10 15:18:48.980  1723  2376 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:48.980  1723  2376 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:48.980  1723  2376 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:48.980 12747 12747 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@f1e8c6e
+09-10 15:18:48.981  4529 13204 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.example.dogglers', mForegroundUid=10551, mForegroundPid=12747, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10028, mLastForegroundPid=2563, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+09-10 15:18:48.981 10277 10295 D AutoInstallService: onForegroundInfoChanged: com.example.dogglers
+09-10 15:18:48.981 10934 10951 I GST     : forePkg: com.example.dogglers, preForePkg: com.miui.home
+09-10 15:18:48.982  4529 13204 I GameBoosterService: onForegroundInfoChanged: Cur=com.example.dogglers	 last=com.miui.home
+09-10 15:18:48.985  4529 13204 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.example.dogglers', mForegroundUid=10551, mForegroundPid=12747, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10028, mLastForegroundPid=2563, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+09-10 15:18:48.985  4529 13204 I VideoBoxUtils: isSupportVideoBox: false
+09-10 15:18:48.986  4529 13204 I VideoToolBoxService: splitMode: onfalse
+09-10 15:18:48.986  4529 13204 I VideoToolBoxService: onForegroundInfoChanged: Exit Vtb
+09-10 15:18:48.987 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f in: PRE_ON_CREATE
+09-10 15:18:48.988 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f
+09-10 15:18:48.988  1723  2134 I MiuiNetworkPolicy: updateUidState uid = 10551, uidState = 2
+09-10 15:18:48.988  1723  2134 I MiuiNetworkPolicy: updateMLUid uid:10551,old:5,new:2
+09-10 15:18:48.988  1723  2134 I MiuiNetworkPolicy: isMLEnabled state:5,uid:10551,connect:CONNECTED
+09-10 15:18:48.988  1723  2134 I MiuiNetworkPolicy: isMLEnabled state:2,uid:10551,connect:CONNECTED
+09-10 15:18:48.991  2353  2353 D NavBarTintController: onSampleCollected 0.007843138
+09-10 15:18:48.993  2563  2563 D Launcher.Lifecycle: onWindowFocusChanged:false,UserHandle{0},2d07666,true
+09-10 15:18:48.993  2563  2684 D StatusBarController: handleMessage: flag 800000  disable false
+09-10 15:18:48.994   906  1971 D BufferQueueLayer: Launcher new frame Arrived
+09-10 15:18:49.000 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f in: CREATED
+09-10 15:18:49.001 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f
+09-10 15:18:49.002 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f in: STARTED
+09-10 15:18:49.002 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f
+09-10 15:18:49.006 12300 11110 E AD-PLUGIN-SplashController: should not connect network, privacy revoke limit
+09-10 15:18:49.006 12300 11110 W AD-PLUGIN-SplashController: Should not connect network!
+09-10 15:18:49.008  1723  2376 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.xiaomi.smarthome, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.appsomniacs.da2, com.miHoYo.Yuanshen, com.baidu.BaiduMap, com.google.android.googlequicksearchbox]
+09-10 15:18:49.009  2563  2563 D Launcher_WallpaperUtils: changeStatusBarMode:false
+09-10 15:18:49.010   906  1005 D BufferQueueLayer: Launcher new frame Arrived
+09-10 15:18:49.014  1723  2376 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:49.014  1723  2376 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:49.014  1723  2376 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:49.014  1723  2376 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-10 15:18:49.016 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f in: RESUMED
+09-10 15:18:49.016 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f
+09-10 15:18:49.017 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f in: PAUSED
+09-10 15:18:49.017  2563  2563 D RecentsImpl: mActivityStateObserver androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+09-10 15:18:49.017  2563  2563 W RecentsImpl: onResumed className=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity   mIsInAnotherPro=false
+09-10 15:18:49.018 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f
+09-10 15:18:49.018  2563  2698 D RecentsImpl: showNavStubView
+09-10 15:18:49.018  2563  2697 W RecentsImpl: disableBackStubWindow    disableTouch=false
+09-10 15:18:49.018  2563  2697 D RecentsImpl: showBackStubWindow  mHasNavigationBar=true   mDisabledByDriveMode=false
+09-10 15:18:49.019  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.019  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.019  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.020  1723  4108 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:49.020  1723  4108 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:49.020  1723  4108 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:49.020  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.021  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.021  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.022 12747 12747 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@87439a5
+09-10 15:18:49.025 12747 12747 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@e93cb21 in: PRE_ON_CREATE
+09-10 15:18:49.026 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-10 15:18:49.031  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.033  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.054 12747 12747 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@e93cb21 in: CREATED
+09-10 15:18:49.054 12747 12747 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@e93cb21
+09-10 15:18:49.055 12747 12747 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@e93cb21 in: STARTED
+09-10 15:18:49.055 12747 12747 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@e93cb21
+09-10 15:18:49.056 12747 12747 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@e93cb21 in: RESUMED
+09-10 15:18:49.057 12747 12747 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@e93cb21
+09-10 15:18:49.062  2563  2563 D RecentsImpl: mActivityStateObserver com.example.dogglers.MainActivity
+09-10 15:18:49.062  2563  2563 W RecentsImpl: onResumed className=com.example.dogglers.MainActivity   mIsInAnotherPro=false
+09-10 15:18:49.062  2563  2698 D RecentsImpl: showNavStubView
+09-10 15:18:49.062  2563  2697 W RecentsImpl: disableBackStubWindow    disableTouch=false
+09-10 15:18:49.062  2563  2697 D RecentsImpl: showBackStubWindow  mHasNavigationBar=true   mDisabledByDriveMode=false
+09-10 15:18:49.062  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.062  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.062  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.062  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.063  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.063  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 9 microseconds, avg: 102
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 6 microseconds, avg: 101
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.073  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 4 microseconds, avg: 101
+09-10 15:18:49.074  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.074  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.074  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 5 microseconds, avg: 101
+09-10 15:18:49.077  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.081  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.082   906   906 D FOD     : Launcher Changed hasLauncher=0
+09-10 15:18:49.082   906   906 D FOD     : WallPaper Changed hasWallPaper=0
+09-10 15:18:49.093  2353  2353 D NavBarTintController: onSampleCollected 0.0
+09-10 15:18:49.107  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3228
+09-10 15:18:49.107  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2068 repeatCheckTimes = 0, locked = false
+09-10 15:18:49.107  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1862 onStartInput(EditorInfo{EditorInfo{packageName=com.example.dogglers, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-10 15:18:49.107  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2068 repeatCheckTimes = 1, locked = false
+09-10 15:18:49.113 12747 12747 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230943/com.example.dogglers:id/horizontal_btn>
+09-10 15:18:49.114  1723  2760 D ActivityTrigger: ActivityTrigger activityStopTrigger
+09-10 15:18:49.115  1723  2760 D ActivityTrigger: ActivityTrigger activityStopTrigger
+09-10 15:18:49.115 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f in: STOPPED
+09-10 15:18:49.116  2563  2563 D Launcher.Lifecycle: onStop:UserHandle{0},2d07666,false
+09-10 15:18:49.116 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f
+09-10 15:18:49.118   566   566 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.servicetracker@1.0::IServicetracker/default in either framework or device manifest.
+09-10 15:18:49.119 12300 11110 E AD-PLUGIN-SplashController: should not connect network, privacy revoke limit
+09-10 15:18:49.119 12300 11110 W AD-PLUGIN-SplashController: Should not connect network!
+09-10 15:18:49.121  1723  1939 I ActivityTaskManager: Displayed com.example.dogglers/.MainActivity: +155ms
+09-10 15:18:49.121  1723  2760 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.xiaomi.smarthome, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.appsomniacs.da2, com.miHoYo.Yuanshen, com.baidu.BaiduMap, com.google.android.googlequicksearchbox]
+09-10 15:18:49.124  1723  2760 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:49.124  1723  2760 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:49.124  1723  2760 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:49.125  1723  2760 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-10 15:18:49.130 12747 12747 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@e93cb21 in: PAUSED
+09-10 15:18:49.130 12747 12747 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@e93cb21
+09-10 15:18:49.132  1723  2760 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:49.132  1723  2760 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:49.132  1723  2760 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:49.134 12747 12747 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@a3164af
+09-10 15:18:49.136  1723  2134 I MiuiNetworkPolicy: updateUidState uid = 10028, uidState = 6
+09-10 15:18:49.136  1723  2134 I MiuiNetworkPolicy: updateMLUid uid:10028,old:2,new:6
+09-10 15:18:49.136  1723  2134 I MiuiNetworkPolicy: isMLEnabled state:2,uid:10028,connect:CONNECTED
+09-10 15:18:49.136  1723  2134 I MiuiNetworkPolicy: isMLEnabled state:6,uid:10028,connect:CONNECTED
+09-10 15:18:49.139 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc in: PRE_ON_CREATE
+09-10 15:18:49.140 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc
+09-10 15:18:49.145 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc in: CREATED
+09-10 15:18:49.145 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc
+09-10 15:18:49.146 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc in: STARTED
+09-10 15:18:49.146 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc
+09-10 15:18:49.147 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc in: RESUMED
+09-10 15:18:49.148 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc
+09-10 15:18:49.152  2563  2563 D RecentsImpl: mActivityStateObserver androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-10 15:18:49.152  2563  2563 W RecentsImpl: onResumed className=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity   mIsInAnotherPro=false
+09-10 15:18:49.152  2563  2698 D RecentsImpl: showNavStubView
+09-10 15:18:49.152  2563  2697 W RecentsImpl: disableBackStubWindow    disableTouch=false
+09-10 15:18:49.152  2563  2697 D RecentsImpl: showBackStubWindow  mHasNavigationBar=true   mDisabledByDriveMode=false
+09-10 15:18:49.152  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.152  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.152  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.152  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.153  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.153  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.161  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.164  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.170  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.170  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.170  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 10 microseconds, avg: 100
+09-10 15:18:49.171  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.171  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.171  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 6 microseconds, avg: 100
+09-10 15:18:49.171  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.171  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.171  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 7 microseconds, avg: 100
+09-10 15:18:49.173  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3228
+09-10 15:18:49.173  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2068 repeatCheckTimes = 0, locked = false
+09-10 15:18:49.173  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1862 onStartInput(EditorInfo{EditorInfo{packageName=com.example.dogglers, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-10 15:18:49.173  1723  1939 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +49ms
+09-10 15:18:49.173  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2068 repeatCheckTimes = 1, locked = false
+09-10 15:18:49.181 12300 11110 E AD-PLUGIN-SplashController: should not connect network, privacy revoke limit
+09-10 15:18:49.181 12300 11110 W AD-PLUGIN-SplashController: Should not connect network!
+09-10 15:18:49.183  1723  4108 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.xiaomi.smarthome, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.appsomniacs.da2, com.miHoYo.Yuanshen, com.baidu.BaiduMap, com.google.android.googlequicksearchbox]
+09-10 15:18:49.185  1723  4108 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:49.185  1723  4108 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:49.185  1723  4108 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:49.186  1723  4108 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-10 15:18:49.188 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f in: DESTROYED
+09-10 15:18:49.189 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9df7f0f
+09-10 15:18:49.189  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.189  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.189  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 10 microseconds, avg: 99
+09-10 15:18:49.190 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc in: PAUSED
+09-10 15:18:49.190 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc
+09-10 15:18:49.191   801   801 E ANDR-PERF-MPCTL: Active req limit reached, No optimizations performed
+09-10 15:18:49.192  1723  2760 D CompatibilityInfo: mCompatibilityFlags - 0
+09-10 15:18:49.192  1723  2760 D CompatibilityInfo: applicationDensity - 440
+09-10 15:18:49.192  1723  2760 D CompatibilityInfo: applicationScale - 1.0
+09-10 15:18:49.195 12747 12747 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@8c583c1
+09-10 15:18:49.198 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766 in: PRE_ON_CREATE
+09-10 15:18:49.198 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766
+09-10 15:18:49.202 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766 in: CREATED
+09-10 15:18:49.203 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766
+09-10 15:18:49.203 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766 in: STARTED
+09-10 15:18:49.204 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766
+09-10 15:18:49.204  2353  2353 D NavBarTintController: onSampleCollected 0.0
+09-10 15:18:49.205 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766 in: RESUMED
+09-10 15:18:49.205 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766
+09-10 15:18:49.209  2563  2563 D RecentsImpl: mActivityStateObserver androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-10 15:18:49.209  2563  2563 W RecentsImpl: onResumed className=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity   mIsInAnotherPro=false
+09-10 15:18:49.209  2563  2698 D RecentsImpl: showNavStubView
+09-10 15:18:49.209  2563  2697 W RecentsImpl: disableBackStubWindow    disableTouch=false
+09-10 15:18:49.209  2563  2697 D RecentsImpl: showBackStubWindow  mHasNavigationBar=true   mDisabledByDriveMode=false
+09-10 15:18:49.210  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.210 12747 12747 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@e93cb21 in: STOPPED
+09-10 15:18:49.210  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.210  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.210 12747 12747 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@e93cb21
+09-10 15:18:49.210  2563  2697 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+09-10 15:18:49.210  2563  2697 D GestureStubView: resetRenderProperty: showGestureStub
+09-10 15:18:49.210  2563  2697 D GestureStubView: showGestureStub
+09-10 15:18:49.211 12747 12747 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@e93cb21 in: DESTROYED
+09-10 15:18:49.211 12747 12747 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-10 15:18:49.215  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.215  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.215  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 11 microseconds, avg: 99
+09-10 15:18:49.226  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.226  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.226  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 12 microseconds, avg: 99
+09-10 15:18:49.227  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.227  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.227  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 9 microseconds, avg: 99
+09-10 15:18:49.227  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.228  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.228  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 7 microseconds, avg: 98
+09-10 15:18:49.228  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.228  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.228  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 8 microseconds, avg: 98
+09-10 15:18:49.230  1723  1939 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +48ms
+09-10 15:18:49.231  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3228
+09-10 15:18:49.231  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.231  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2068 repeatCheckTimes = 0, locked = false
+09-10 15:18:49.231  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1862 onStartInput(EditorInfo{EditorInfo{packageName=com.example.dogglers, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-10 15:18:49.232  3978  3978 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2068 repeatCheckTimes = 1, locked = false
+09-10 15:18:49.234  2563  2697 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+09-10 15:18:49.250  2563  7590 D LauncherFsGestureCompat: componentName is com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-10 15:18:49.250  1723  4898 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+09-10 15:18:49.254 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc in: STOPPED
+09-10 15:18:49.254 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc
+09-10 15:18:49.255 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc in: DESTROYED
+09-10 15:18:49.255 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@20f60bc
+09-10 15:18:49.258  2353  2353 D EventBus: [2353, u0] send(AppTransitionFinishedEvent)
+09-10 15:18:49.258  2353  2353 D EventBus: [2353, u0]  -> ForcedResizableInfoActivityController [0x7bc1eda, P1] onBusEvent(AppTransitionFinishedEvent)
+09-10 15:18:49.258  2353  2353 D EventBus: [2353, u0] onBusEvent(AppTransitionFinishedEvent) duration: 10 microseconds, avg: 98
+09-10 15:18:49.260 12747 12747 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766 in: PAUSED
+09-10 15:18:49.260 12747 12747 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2841766
+09-10 15:18:49.263  4529 15580 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10028, mForegroundPid=2563, mLastForegroundPackageName='com.example.dogglers', mLastForegroundUid=10551, mLastForegroundPid=12747, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+09-10 15:18:49.263 10277 10295 D AutoInstallService: onForegroundInfoChanged: com.miui.home
+09-10 15:18:49.263 10934 10951 I GST     : forePkg: com.miui.home, preForePkg: com.example.dogglers
+09-10 15:18:49.263  4529 15580 I GameBoosterService: onForegroundInfoChanged: Cur=com.miui.home	 last=com.example.dogglers
+09-10 15:18:49.263  4529 15580 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10028, mForegroundPid=2563, mLastForegroundPackageName='com.example.dogglers', mLastForegroundUid=10551, mLastForegroundPid=12747, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+09-10 15:18:49.263  4529 15580 I VideoBoxUtils: isSupportVideoBox: false
+09-10 15:18:49.265 12747 12911 I TestRunner: finished: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)
